@@ -1,2 +1,2 @@
 # random_celestina
-A google bot that posts random extract from "Comedia de Calisto y Melibea"
+A Twitter bot that posts random extracts from "Comedia de Calisto y Melibea"
